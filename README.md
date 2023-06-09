@@ -7,5 +7,5 @@
 
 
 -->
-I'm a full stack developer based in Kyoto, Japan and looking to fulfill my curiosity on everything web development related 👨‍💻
+I'm a backend developer based in Kyoto, Japan and I'm looking to challenge myself on everything web development related 👨‍💻
 
