@@ -35,4 +35,6 @@ Collaboration: I thrive in collaborative environments and enjoy working with div
 
 📫 **Let's Connect**
 
-I'm always open to connecting with like-minded individuals and discussing exciting opportunities. Feel free to reach out to me on LinkedIn at: https://linkedin.com/in/julienafonso
+I'm always open to connecting with like-minded individuals and discussing exciting opportunities.
+
+Feel free to reach out to me on LinkedIn at: https://linkedin.com/in/julienafonso
